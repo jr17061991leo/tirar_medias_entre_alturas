@@ -29,7 +29,7 @@ public class programa {
 		media = soma / alturas.length;
 		System.out.printf("a media é: %.2f%n", media);
 
-		in.close();
+		in.close(); System.out.println("bom estudo");
 	}
 
 }
